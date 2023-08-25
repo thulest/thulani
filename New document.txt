@@ -1,0 +1,8 @@
+public class hellow
+{
+	public static void main(String[]ergs)
+	{
+		system.out.println("hellow world");
+
+	}
+}
