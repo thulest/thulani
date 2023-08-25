@@ -1,3 +1,4 @@
+
 public class hellow
 {
 	public static void main(String[]ergs)
@@ -7,4 +8,4 @@ public class hellow
 	}
 }
 
- hi
+ hiyu
